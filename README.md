@@ -36,3 +36,6 @@ Friendly user interface
 
 The research paper associated with this project can be found by the following link:
 https://www.researchgate.net/publication/393437067_Indian_Sign_Language_to_Multilingual_Text_Using_Deep_Learning
+
+# Contributors
+https://www.linkedin.com/in/sharonsara/
