@@ -32,4 +32,4 @@ Friendly user interface
 <img width="918" height="296" alt="image" src="https://github.com/user-attachments/assets/6c6ebbb7-7aae-4ca6-9a0d-b2a9eeed9636" />
 
 The research paper associated with this project can be found by the following link:
-https://doi.org/10.47392/IRJAEH.2025.0447
+https://www.researchgate.net/publication/393437067_Indian_Sign_Language_to_Multilingual_Text_Using_Deep_Learning
