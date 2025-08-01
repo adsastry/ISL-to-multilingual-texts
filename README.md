@@ -7,21 +7,31 @@ https://data.mendeley.com/datasets/2vfdm42337/1
 
 # Model Architecture
 Input: Video sequence of shape `(30 frames, 128x128 pixels, 3 channels)`
+
 Network: 3D CNN with Conv3D, MaxPooling3D, Dropout, and Dense layers
+
 Output: Gesture class (e.g., Call, Help, Doctor) with softmax confidence
+
 Languages Supported: English ➡ Hindi, Kannada
 
 # Technologies Used
 Python
+
 Convolutional Neural Network
+
 TensorFlow / Keras
+
 OpenCV
+
 Streamlit
+
 Googletrans (Translation)
 
 # Key Features
 Real time gesture prediction
+
 AI powered algorithm for intelligent data processing
+
 Friendly user interface
 
 # Preview
