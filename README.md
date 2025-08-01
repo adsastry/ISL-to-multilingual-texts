@@ -39,4 +39,5 @@ https://www.researchgate.net/publication/393437067_Indian_Sign_Language_to_Multi
 
 # Contributors
 Sharon Sara
+
 Shubha M
