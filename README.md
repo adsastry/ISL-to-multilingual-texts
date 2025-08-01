@@ -10,14 +10,26 @@ Languages Supported: English ➡ Hindi, Kannada
 
 # Technologies Used
 Python
+Convolutional Neural Network
 TensorFlow / Keras
 OpenCV
 Streamlit
 Googletrans (Translation)
-NumPy
+
+# Key Features
+Real time gesture prediction
+AI powered algorithm for intelligent data processing
+Friendly user interface
 
 # Preview
+1. Main UI
 <img width="1239" height="539" alt="image" src="https://github.com/user-attachments/assets/e6cae22b-3165-43a1-a1a4-2773b2428bb7" />
+
+2. Video uploaded 
+<img width="946" height="726" alt="image" src="https://github.com/user-attachments/assets/5b32964e-ac73-49af-b2ec-9316261820d9" />
+
+3. Final Output
+<img width="918" height="296" alt="image" src="https://github.com/user-attachments/assets/6c6ebbb7-7aae-4ca6-9a0d-b2a9eeed9636" />
 
 The research paper associated with this project can be found by the following link:
 https://doi.org/10.47392/IRJAEH.2025.0447
