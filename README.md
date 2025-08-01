@@ -17,3 +17,7 @@ OpenCV
 Streamlit
 Googletrans (Translation)
 NumPy
+
+
+The research paper associated with this project can be found by the following link:
+https://doi.org/10.47392/IRJAEH.2025.0447
