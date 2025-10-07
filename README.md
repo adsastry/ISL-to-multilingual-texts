@@ -2,7 +2,7 @@
 Helpful to the dumb and deaf community of India who uses Indian Sign Language to communicate.
 This project is a deep learning-based solution for recognizing Indian Sign Language (ISL) dynamic gestures from video input. It uses a 3D Convolutional Neural Network (CNN) to classify gestures and Streamlit to provide a web-based interface. The recognized gesture is also translated into Hindi and Kannada using Google Translate.
 
-Unfortunately, we are unable to upload the dataset due to it's ize. The link to the dataset is provided below. There aren't many datasets which has all the gestures. The dataset which we used are the emergency sings.
+Unfortunately, we are unable to upload the dataset due to it's size. The link to the dataset is provided below. There aren't many datasets which has all the gestures. The dataset which we used are the emergency sings.
 https://data.mendeley.com/datasets/2vfdm42337/1
 
 # Model Architecture
