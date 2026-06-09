@@ -12,7 +12,7 @@ Network: 3D CNN with Conv3D, MaxPooling3D, Dropout, and Dense layers
 
 Output: Gesture class (e.g., Call, Help, Doctor) with softmax confidence
 
-Languages Supported: English ➡ Hindi, Kannada
+Languages Supported: English -> Hindi, Kannada
 
 # Technologies Used
 Python
