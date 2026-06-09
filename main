@@ -1,5 +1,5 @@
 # ISL-to-multilingual-texts
-Helpful to the dumb and deaf community of India who uses Indian Sign Language to communicate.
+# Helpful to the dumb and deaf community of India who uses Indian Sign Language to communicate.
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
